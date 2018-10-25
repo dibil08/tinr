@@ -1,0 +1,3 @@
+/home/tomaz/tinr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tomaz/tinr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tomaz/tinr/cmake-build-debug/CMakeFiles/tinr.dir

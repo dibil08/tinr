@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tinr.dir/main.cpp.o  -o tinr -lSDL2 -lSDL2_image -lSDL2 -lSDL2_image 
