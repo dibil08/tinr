@@ -18,6 +18,7 @@ CMakeFiles/tinr.dir/main.cpp.o: /usr/include/SDL2/SDL_gamecontroller.h
 CMakeFiles/tinr.dir/main.cpp.o: /usr/include/SDL2/SDL_gesture.h
 CMakeFiles/tinr.dir/main.cpp.o: /usr/include/SDL2/SDL_haptic.h
 CMakeFiles/tinr.dir/main.cpp.o: /usr/include/SDL2/SDL_hints.h
+CMakeFiles/tinr.dir/main.cpp.o: /usr/include/SDL2/SDL_image.h
 CMakeFiles/tinr.dir/main.cpp.o: /usr/include/SDL2/SDL_joystick.h
 CMakeFiles/tinr.dir/main.cpp.o: /usr/include/SDL2/SDL_keyboard.h
 CMakeFiles/tinr.dir/main.cpp.o: /usr/include/SDL2/SDL_keycode.h
